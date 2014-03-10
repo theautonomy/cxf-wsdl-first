@@ -1,7 +1,6 @@
 Wei's note (First Things First)
 ==============================
-I need a CXF SOAP web service to play with so I took this example directly from one of the 
-samples in CXF distribution. What follows below is the note from the original distribution.
+I need a CXF SOAP web service to play with so I took this example directly from one of the samples in CXF distribution. What follows below is the note from the original distribution.
 
 
 
