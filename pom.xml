@@ -25,11 +25,13 @@
     <version>2.4.3</version>
     <description>WSDL first demo using Document/Literal Style</description>
 
+<!--  
     <parent>
         <groupId>org.apache.cxf.samples</groupId>
         <artifactId>cxf-samples</artifactId>
         <version>2.4.3</version>
     </parent>
+    -->
     <properties>
         <cxf.version>${project.version}</cxf.version>
         <cxf.release.base>${basedir}/../..</cxf.release.base>
